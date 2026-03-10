@@ -2,6 +2,7 @@
   "base": [
     "python:3.14-bookworm",
     "python:3.13-bookworm",
+    "python:3.12-bookworm",
     "node:24-bookworm",
     "php:8.5.3-cli-bookworm"
   ],
